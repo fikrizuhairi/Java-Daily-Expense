@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDailyExpenses</string>
+    <string name="action_expenses">Expenses List</string>
+    <string name="title_activity_expense_list">ActivityExpenseList</string>
+</resources>
